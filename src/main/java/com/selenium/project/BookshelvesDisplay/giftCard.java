@@ -88,10 +88,12 @@ public class giftCard extends base
 	
 			//displaying the message for invalid email
 			
+			
 			driver.findElement(mailEnter).click();
 			String f= mail.getAttribute("validationMessage");
 			Thread.sleep(500);
-			  getScreenshot();
+			 getScreenshot();
+			 
 			System.out.println("\n"+"The error message appeared for invalid e-mail: " +f +"\n");
 			 
 			//this data stored in index.html file

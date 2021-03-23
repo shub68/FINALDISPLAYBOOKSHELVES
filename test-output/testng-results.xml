@@ -7,28 +7,6 @@ The title of the Page: Furniture Online: @Upto 40% Off on Wooden Furniture Onlin
     </line>
     <line>
       <![CDATA[
-The price of the first three bookshelves below Rs.15000:]]>
-    </line>
-    <line>
-      <![CDATA[Austen Bookshelf/Display Unit:]]>
-    </line>
-    <line>
-      <![CDATA[Rs.10399]]>
-    </line>
-    <line>
-      <![CDATA[Austen Bookshelf/Display Unit:]]>
-    </line>
-    <line>
-      <![CDATA[Rs.10399]]>
-    </line>
-    <line>
-      <![CDATA[Tetris Side Bookshelf/Display Unit:]]>
-    </line>
-    <line>
-      <![CDATA[Rs.6799]]>
-    </line>
-    <line>
-      <![CDATA[
 The submenu list from 'Being at home' column:]]>
     </line>
     <line>
@@ -87,57 +65,30 @@ The price of the first three study chair]]>
       <![CDATA[Rs.10879]]>
     </line>
     <line>
-      <![CDATA[Hawley Study Chair:]]>
+      <![CDATA[Aurelio Study Chair:]]>
     </line>
     <line>
-      <![CDATA[Rs.6999]]>
-    </line>
-    <line>
-      <![CDATA[
-The error message appeared for invalid e-mail: Please include an '@' in the email address. 'Ramgmail.com' is missing an '@'.
-]]>
+      <![CDATA[Rs.8599]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-03-15T14:34:22 IST" name="Default suite" finished-at="2021-03-15T14:35:56 IST" duration-ms="93352">
+  <suite started-at="2021-03-23T11:44:33 IST" name="Suite" finished-at="2021-03-23T11:49:00 IST" duration-ms="267535">
     <groups>
     </groups>
-    <test started-at="2021-03-15T14:34:22 IST" name="Default test" finished-at="2021-03-15T14:35:56 IST" duration-ms="93352">
+    <test started-at="2021-03-23T11:44:33 IST" name="Test" finished-at="2021-03-23T11:49:00 IST" duration-ms="267535">
       <class name="com.selenium.project.BookshelvesDisplay.mainTest">
-        <test-method is-config="true" signature="initialSetup()[pri:0, instance:com.selenium.project.BookshelvesDisplay.mainTest@24313fcc]" started-at="2021-03-15T14:34:22 IST" name="initialSetup" finished-at="2021-03-15T14:34:35 IST" duration-ms="12225" status="PASS">
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:com.selenium.project.BookshelvesDisplay.mainTest@63475ace]" started-at="2021-03-23T11:44:33 IST" name="initialSetup" finished-at="2021-03-23T11:44:55 IST" duration-ms="21857" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialSetup -->
-        <test-method signature="bookself()[pri:1, instance:com.selenium.project.BookshelvesDisplay.mainTest@24313fcc]" started-at="2021-03-15T14:34:35 IST" name="bookself" finished-at="2021-03-15T14:35:02 IST" duration-ms="26845" status="PASS">
+        <test-method signature="bookself()[pri:1, instance:com.selenium.project.BookshelvesDisplay.mainTest@63475ace]" started-at="2021-03-23T11:44:55 IST" name="bookself" finished-at="2021-03-23T11:46:29 IST" duration-ms="93652" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[
 The title of the Page: Furniture Online: @Upto 40% Off on Wooden Furniture Online in India at Best Price - Urban Ladder]]>
             </line>
-            <line>
-              <![CDATA[
-The price of the first three bookshelves below Rs.15000:]]>
-            </line>
-            <line>
-              <![CDATA[Austen Bookshelf/Display Unit:]]>
-            </line>
-            <line>
-              <![CDATA[Rs.10399]]>
-            </line>
-            <line>
-              <![CDATA[Austen Bookshelf/Display Unit:]]>
-            </line>
-            <line>
-              <![CDATA[Rs.10399]]>
-            </line>
-            <line>
-              <![CDATA[Tetris Side Bookshelf/Display Unit:]]>
-            </line>
-            <line>
-              <![CDATA[Rs.6799]]>
-            </line>
           </reporter-output>
         </test-method> <!-- bookself -->
-        <test-method signature="collections()[pri:2, instance:com.selenium.project.BookshelvesDisplay.mainTest@24313fcc]" started-at="2021-03-15T14:35:02 IST" name="collections" finished-at="2021-03-15T14:35:16 IST" duration-ms="14750" status="PASS">
+        <test-method signature="collections()[pri:2, instance:com.selenium.project.BookshelvesDisplay.mainTest@63475ace]" started-at="2021-03-23T11:46:29 IST" name="collections" finished-at="2021-03-23T11:47:18 IST" duration-ms="49258" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[
@@ -184,7 +135,7 @@ The submenu list from 'Being at home' column:]]>
             </line>
           </reporter-output>
         </test-method> <!-- collections -->
-        <test-method signature="DisplayStudyChair()[pri:3, instance:com.selenium.project.BookshelvesDisplay.mainTest@24313fcc]" started-at="2021-03-15T14:35:16 IST" name="DisplayStudyChair" finished-at="2021-03-15T14:35:31 IST" duration-ms="14386" status="PASS">
+        <test-method signature="DisplayStudyChair()[pri:3, instance:com.selenium.project.BookshelvesDisplay.mainTest@63475ace]" started-at="2021-03-23T11:47:18 IST" name="DisplayStudyChair" finished-at="2021-03-23T11:47:44 IST" duration-ms="25718" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[
@@ -203,27 +154,22 @@ The price of the first three study chair]]>
               <![CDATA[Rs.10879]]>
             </line>
             <line>
-              <![CDATA[Hawley Study Chair:]]>
+              <![CDATA[Aurelio Study Chair:]]>
             </line>
             <line>
-              <![CDATA[Rs.6999]]>
+              <![CDATA[Rs.8599]]>
             </line>
           </reporter-output>
         </test-method> <!-- DisplayStudyChair -->
-        <test-method signature="displayGiftcardMesssage()[pri:4, instance:com.selenium.project.BookshelvesDisplay.mainTest@24313fcc]" started-at="2021-03-15T14:35:31 IST" name="displayGiftcardMesssage" finished-at="2021-03-15T14:35:53 IST" duration-ms="22684" status="PASS">
+        <test-method signature="displayGiftcardMesssage()[pri:4, instance:com.selenium.project.BookshelvesDisplay.mainTest@63475ace]" started-at="2021-03-23T11:47:44 IST" name="displayGiftcardMesssage" finished-at="2021-03-23T11:48:56 IST" duration-ms="72638" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[
-The error message appeared for invalid e-mail: Please include an '@' in the email address. 'Ramgmail.com' is missing an '@'.
-]]>
-            </line>
           </reporter-output>
         </test-method> <!-- displayGiftcardMesssage -->
-        <test-method is-config="true" signature="after()[pri:0, instance:com.selenium.project.BookshelvesDisplay.mainTest@24313fcc]" started-at="2021-03-15T14:35:53 IST" name="after" finished-at="2021-03-15T14:35:56 IST" duration-ms="2200" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:com.selenium.project.BookshelvesDisplay.mainTest@63475ace]" started-at="2021-03-23T11:48:56 IST" name="after" finished-at="2021-03-23T11:49:00 IST" duration-ms="4010" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
       </class> <!-- com.selenium.project.BookshelvesDisplay.mainTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

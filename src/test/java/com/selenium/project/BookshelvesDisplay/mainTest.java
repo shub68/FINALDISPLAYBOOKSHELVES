@@ -9,11 +9,6 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 
-/*import com.Selenium.Pages.BookShelves;
-import com.Selenium.Pages.CollectionSublist;
-import com.Selenium.Pages.GiftcardErrorMessage;
-import com.Selenium.Pages.RecommendedStudyChair;*/
-
 	public class mainTest extends base //it extends base class because it contains driver info 
 	
 	{
